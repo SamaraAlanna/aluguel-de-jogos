@@ -11,6 +11,7 @@ Cada card de jogo possui uma imagem, um botão e um texto que mudam dinamicament
 Quando o jogo está alugado, o botão pergunta uma **confirmação antes de devolver**.
 
 OBS: Gostaria de ressaltar que a Alura nos enviou o front já feito, para que focassemos na prática da lógica.
+
 ---
 
 ## Funcionalidades
