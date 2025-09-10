@@ -1,10 +1,10 @@
 # Dashboard de Jogos - Alugar e Devolver
 
 ## Tela inicial
-![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407869611801579663/image.png?ex=68a7ac40&is=68a65ac0&hm=4019f646e982d82efcff6a5e88505c3ad9f675cc02857c24a3944307897ca733&=&format=webp&quality=lossless&width=1747&height=856)
+![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407869611801579663/image.png?ex=68c20a40&is=68c0b8c0&hm=a18d185a276b7922b6a98590f6609831f7625b9d098dbb03cdc4379519318637&=&format=webp&quality=lossless)
 
 ## Jogos alugados e mensagem de confirmação
-![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407869667141353482/image.png?ex=68a7ac4d&is=68a65acd&hm=f753f1ee95d56a7eb27602c8604b425b93c32920cad4b8a53edd54f987c3059f&=&format=webp&quality=lossless&width=1742&height=856)
+![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407869667141353482/image.png?ex=68c20a4d&is=68c0b8cd&hm=fa4b17e0c52e13f5173393d2514871d82aa0b886ae4cca7ee9462c408d892c2e&=&format=webp&quality=lossless)
 
 Este projeto é uma **dashboard interativa de jogos** que permite ao usuário **alugar e devolver jogos**.  
 Cada card de jogo possui uma imagem, um botão e um texto que mudam dinamicamente com base no status do jogo.  
